@@ -11,3 +11,4 @@ This application can be used to add a large number of people at once onto a goog
 -  Click 'ok' and place your cursor on the text box (the place where you type in e-mail id)
 -  Addition of people will start after 10 seconds
 -  Close the terminal window to stop the application
+-  DISCLAIMER - The application will only stop adding people if you close the terminal window 
