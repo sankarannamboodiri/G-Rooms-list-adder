@@ -12,7 +12,7 @@ mylist=open(selectlist,"r")
 fd=list()
 for line in mylist:
     fd.append(line.strip())
-starter=easygui.msgbox('Peopple will be automatically added 10 seconds after you select start. Select the text box after clicking ok')
+starter=easygui.msgbox('Peopple will be automatically added 10 seconds after you select ok. Select the text box after clicking ok')
 time.sleep(10)
 paste = "xdotool key ctrl+v"
 enter= "xdotool key Return"
