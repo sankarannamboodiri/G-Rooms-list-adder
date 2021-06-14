@@ -1,4 +1,3 @@
-
 from pynput.keyboard import Key, Controller
 import pyperclip
 import time
