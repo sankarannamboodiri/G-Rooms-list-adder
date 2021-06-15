@@ -1,3 +1,4 @@
 pynput
 pyperclip
 easygui
+pandas
